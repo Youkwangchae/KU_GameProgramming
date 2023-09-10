@@ -10,7 +10,7 @@
 - 건물 상단 좌측엔 새천년관 건물번호 (16번) 표시
 - 바닥에는 brick, 나무쪽 흙 바닥엔 dirt 이미지를 tileable한 texture로 사용해 구성하였음.
 - 나무 표현을 위해서는 Unity Asset store의 무료 나무 에셋 2개를 사용.
-출처1 : https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208
-출처2 : https://assetstore.unity.com/packages/3d/vegetation/trees/lemon-trees-200372
+- 출처1 : https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208
+- 출처2 : https://assetstore.unity.com/packages/3d/vegetation/trees/lemon-trees-200372
 
 - 건물 우측엔 학번과 이름을 명시하였음.
